@@ -1,2 +1,2 @@
 # Practice
-Practical projects written while studying at the University
+#Practical projects written while studying at the University
